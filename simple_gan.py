@@ -1,3 +1,7 @@
+"""
+It's a code based on Youtube Video. Under is the link.
+https://www.youtube.com/watch?v=OljTVUVzPpM
+"""
 import torch
 import torch.nn as nn
 import torch.optim as optim
